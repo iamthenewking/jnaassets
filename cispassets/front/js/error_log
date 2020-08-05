@@ -1,0 +1,549 @@
+[20-Mar-2018 14:02:19 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/223.223.145.229/json): failed to open stream: Connection timed out in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 33
+[20-Mar-2018 14:02:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 35
+[20-Mar-2018 14:02:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 36
+[20-Mar-2018 14:02:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 38
+[20-Mar-2018 14:02:39 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/223.223.145.229/json): failed to open stream: Connection timed out in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 33
+[20-Mar-2018 14:02:39 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 35
+[20-Mar-2018 14:02:39 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 36
+[20-Mar-2018 14:02:39 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 38
+[20-Mar-2018 14:25:40 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/json): failed to open stream: Connection timed out in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 41
+[20-Mar-2018 14:25:40 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 43
+[20-Mar-2018 14:25:45 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/json): failed to open stream: Connection timed out in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 41
+[20-Mar-2018 14:25:45 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 43
+[22-Mar-2018 07:14:01 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/json): failed to open stream: Connection timed out in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 41
+[22-Mar-2018 07:14:01 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/yko90fz8cqow/public_html/updates/jna/resources/assets/front/js/getIP.php on line 43
+[01-Apr-2018 14:31:33 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 33
+[01-Apr-2018 14:31:33 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/49.146.1.72/json): failed to open stream: no suitable wrapper could be found in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 33
+[01-Apr-2018 14:31:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 35
+[01-Apr-2018 14:31:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 36
+[01-Apr-2018 14:31:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 38
+[02-Apr-2018 00:48:36 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Apr-2018 00:48:36 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.229.171.123/json): failed to open stream: no suitable wrapper could be found in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Apr-2018 00:48:36 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 35
+[02-Apr-2018 00:48:36 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 36
+[02-Apr-2018 00:48:36 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 38
+[02-Apr-2018 13:30:35 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Apr-2018 13:30:35 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/223.223.149.164/json): failed to open stream: no suitable wrapper could be found in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Apr-2018 13:30:35 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 35
+[02-Apr-2018 13:30:35 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 36
+[02-Apr-2018 13:30:35 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispdev/public_html/resources/assets/front/js/getIP.php on line 38
+[11-Apr-2018 11:29:28 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[11-Apr-2018 11:29:28 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/182.64.37.136/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[11-Apr-2018 11:29:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[11-Apr-2018 11:29:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[11-Apr-2018 11:29:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[11-Apr-2018 16:57:34 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[11-Apr-2018 16:57:34 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/91.140.73.48/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[11-Apr-2018 16:57:34 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[11-Apr-2018 16:57:34 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[11-Apr-2018 16:57:34 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[13-Apr-2018 10:16:58 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[13-Apr-2018 10:16:58 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/182.64.77.76/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[13-Apr-2018 10:16:58 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[13-Apr-2018 10:16:58 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[13-Apr-2018 10:16:58 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[18-Apr-2018 04:30:19 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[18-Apr-2018 04:30:19 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/76.234.225.229/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[18-Apr-2018 04:30:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[18-Apr-2018 04:30:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[18-Apr-2018 04:30:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[18-Apr-2018 04:40:20 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[18-Apr-2018 04:40:20 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/172.251.194.163/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[18-Apr-2018 04:40:20 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[18-Apr-2018 04:40:20 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[18-Apr-2018 04:40:20 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[08-May-2018 20:46:35 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-May-2018 20:46:35 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/5.80.26.37/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-May-2018 20:46:35 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[08-May-2018 20:46:35 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[08-May-2018 20:46:35 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[31-May-2018 16:59:03 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[31-May-2018 16:59:03 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.177.104.189/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[31-May-2018 16:59:03 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[31-May-2018 16:59:03 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[31-May-2018 16:59:03 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[05-Jun-2018 17:34:14 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[05-Jun-2018 17:34:14 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/180.190.79.216/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[05-Jun-2018 17:34:14 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[05-Jun-2018 17:34:14 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[05-Jun-2018 17:34:14 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[25-Jul-2018 16:09:04 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jul-2018 16:09:04 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/65.189.55.153/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jul-2018 16:09:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[25-Jul-2018 16:09:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[25-Jul-2018 16:09:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[25-Jul-2018 17:37:41 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jul-2018 17:37:41 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/174.84.136.219/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jul-2018 17:37:41 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[25-Jul-2018 17:37:41 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[25-Jul-2018 17:37:41 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[25-Jul-2018 17:38:47 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jul-2018 17:38:47 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/174.84.136.219/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jul-2018 17:38:47 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[25-Jul-2018 17:38:47 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[25-Jul-2018 17:38:47 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[25-Jul-2018 17:40:28 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jul-2018 17:40:28 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/174.84.136.219/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jul-2018 17:40:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[25-Jul-2018 17:40:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[25-Jul-2018 17:40:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[25-Jul-2018 17:41:21 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jul-2018 17:41:21 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/174.84.136.219/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jul-2018 17:41:21 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[25-Jul-2018 17:41:21 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[25-Jul-2018 17:41:21 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[26-Jul-2018 20:21:02 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[26-Jul-2018 20:21:02 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/68.191.76.245/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[26-Jul-2018 20:21:02 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[26-Jul-2018 20:21:02 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[26-Jul-2018 20:21:02 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[26-Jul-2018 20:22:15 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[26-Jul-2018 20:22:15 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/68.191.76.245/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[26-Jul-2018 20:22:15 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[26-Jul-2018 20:22:15 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[26-Jul-2018 20:22:15 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[31-Jul-2018 00:10:04 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[31-Jul-2018 00:10:04 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/70.117.242.230/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[31-Jul-2018 00:10:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[31-Jul-2018 00:10:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[31-Jul-2018 00:10:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[31-Jul-2018 22:00:12 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[31-Jul-2018 22:00:12 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/107.222.216.44/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[31-Jul-2018 22:00:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[31-Jul-2018 22:00:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[31-Jul-2018 22:00:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[25-Sep-2018 20:51:28 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Sep-2018 20:51:28 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.90.184.179/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Sep-2018 20:51:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[25-Sep-2018 20:51:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[25-Sep-2018 20:51:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[05-Oct-2018 12:37:17 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[05-Oct-2018 12:37:17 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/212.129.41.38/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[05-Oct-2018 12:37:17 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[05-Oct-2018 12:37:17 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[05-Oct-2018 12:37:17 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[06-Nov-2018 18:38:45 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Nov-2018 18:38:45 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.46.38.98/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Nov-2018 18:38:45 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[06-Nov-2018 18:38:45 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[06-Nov-2018 18:38:45 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[06-Nov-2018 18:39:25 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Nov-2018 18:39:25 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.46.38.98/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Nov-2018 18:39:25 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[06-Nov-2018 18:39:25 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[06-Nov-2018 18:39:25 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[16-Jan-2019 16:43:07 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[16-Jan-2019 16:43:07 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/112.207.63.144/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[16-Jan-2019 16:43:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[16-Jan-2019 16:43:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[16-Jan-2019 16:43:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[16-Jan-2019 16:43:28 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[16-Jan-2019 16:43:28 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/112.207.63.144/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[16-Jan-2019 16:43:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[16-Jan-2019 16:43:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[16-Jan-2019 16:43:28 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[22-Jan-2019 10:19:21 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[22-Jan-2019 10:19:21 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/125.22.98.5/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[22-Jan-2019 10:19:21 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[22-Jan-2019 10:19:21 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[22-Jan-2019 10:19:21 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[29-Jan-2019 01:13:11 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[29-Jan-2019 01:13:11 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/172.56.6.8/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[29-Jan-2019 01:13:11 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[29-Jan-2019 01:13:11 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[29-Jan-2019 01:13:11 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[03-Feb-2019 06:32:03 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[03-Feb-2019 06:32:03 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.205.204.144/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[03-Feb-2019 06:32:03 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[03-Feb-2019 06:32:03 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[03-Feb-2019 06:32:03 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[13-Feb-2019 17:01:42 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[13-Feb-2019 17:01:42 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/174.255.204.42/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[13-Feb-2019 17:01:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[13-Feb-2019 17:01:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[13-Feb-2019 17:01:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[20-Feb-2019 17:06:19 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[20-Feb-2019 17:06:19 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/112.211.211.64/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[20-Feb-2019 17:06:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[20-Feb-2019 17:06:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[20-Feb-2019 17:06:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[10-Apr-2019 20:03:52 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Apr-2019 20:03:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/110.54.240.53/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Apr-2019 20:03:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[10-Apr-2019 20:03:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[10-Apr-2019 20:03:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[23-Apr-2019 16:06:19 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Apr-2019 16:06:19 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Apr-2019 16:06:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[23-Apr-2019 16:06:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[23-Apr-2019 16:06:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[08-Nov-2019 22:39:08 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-Nov-2019 22:39:08 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-Nov-2019 22:39:08 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[08-Nov-2019 22:39:08 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[08-Nov-2019 22:39:08 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[08-Nov-2019 22:39:09 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-Nov-2019 22:39:09 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-Nov-2019 22:39:09 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[08-Nov-2019 22:39:09 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[08-Nov-2019 22:39:09 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[08-Nov-2019 22:40:16 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-Nov-2019 22:40:16 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-Nov-2019 22:40:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[08-Nov-2019 22:40:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[08-Nov-2019 22:40:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[25-Nov-2019 09:26:13 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Nov-2019 09:26:13 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/175.158.201.60/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Nov-2019 09:26:13 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[25-Nov-2019 09:26:13 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[25-Nov-2019 09:26:13 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[15-Dec-2019 07:39:57 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[15-Dec-2019 07:39:57 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/107.77.173.59/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[15-Dec-2019 07:39:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[15-Dec-2019 07:39:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[15-Dec-2019 07:39:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[18-Dec-2019 08:55:11 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[18-Dec-2019 08:55:11 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/103.121.156.203/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[18-Dec-2019 08:55:11 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[18-Dec-2019 08:55:11 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[18-Dec-2019 08:55:11 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[23-Dec-2019 18:03:33 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Dec-2019 18:03:33 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Dec-2019 18:03:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[23-Dec-2019 18:03:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[23-Dec-2019 18:03:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[30-Dec-2019 06:19:32 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[30-Dec-2019 06:19:32 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/87.238.25.209/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[30-Dec-2019 06:19:32 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[30-Dec-2019 06:19:32 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[30-Dec-2019 06:19:32 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[02-Jan-2020 14:54:22 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Jan-2020 14:54:22 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/104.236.53.155/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Jan-2020 14:54:22 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[02-Jan-2020 14:54:22 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[02-Jan-2020 14:54:22 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[02-Jan-2020 14:57:27 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Jan-2020 14:57:27 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/104.236.53.155/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Jan-2020 14:57:27 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[02-Jan-2020 14:57:27 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[02-Jan-2020 14:57:27 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[02-Jan-2020 14:57:29 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Jan-2020 14:57:29 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/104.236.53.155/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Jan-2020 14:57:29 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[02-Jan-2020 14:57:29 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[02-Jan-2020 14:57:29 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[03-Jan-2020 21:28:07 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[03-Jan-2020 21:28:07 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/107.170.186.79/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[03-Jan-2020 21:28:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[03-Jan-2020 21:28:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[03-Jan-2020 21:28:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[10-Jan-2020 16:27:05 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 16:27:05 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/107.170.127.117/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 16:27:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[10-Jan-2020 16:27:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[10-Jan-2020 16:27:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[10-Jan-2020 16:27:42 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 16:27:42 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 16:27:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[10-Jan-2020 16:27:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[10-Jan-2020 16:27:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[10-Jan-2020 16:27:52 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 16:27:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 16:27:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[10-Jan-2020 16:27:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[10-Jan-2020 16:27:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[10-Jan-2020 16:28:54 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 16:28:54 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 16:28:54 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[10-Jan-2020 16:28:54 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[10-Jan-2020 16:28:54 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[10-Jan-2020 16:56:18 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 16:56:18 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 16:56:18 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[10-Jan-2020 16:56:18 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[10-Jan-2020 16:56:18 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[10-Jan-2020 17:44:40 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 17:44:40 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/175.176.1.11/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Jan-2020 17:44:40 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[10-Jan-2020 17:44:40 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[10-Jan-2020 17:44:40 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[13-Jan-2020 22:30:16 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[13-Jan-2020 22:30:16 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[13-Jan-2020 22:30:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[13-Jan-2020 22:30:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[13-Jan-2020 22:30:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[18-Jan-2020 14:42:51 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[18-Jan-2020 14:42:51 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.31.44.210/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[18-Jan-2020 14:42:51 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[18-Jan-2020 14:42:51 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[18-Jan-2020 14:42:51 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[22-Jan-2020 15:11:04 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[22-Jan-2020 15:11:04 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[22-Jan-2020 15:11:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[22-Jan-2020 15:11:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[22-Jan-2020 15:11:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[22-Jan-2020 15:24:23 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[22-Jan-2020 15:24:23 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[22-Jan-2020 15:24:23 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[22-Jan-2020 15:24:23 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[22-Jan-2020 15:24:23 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[23-Jan-2020 11:49:12 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Jan-2020 11:49:12 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/175.158.201.4/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Jan-2020 11:49:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[23-Jan-2020 11:49:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[23-Jan-2020 11:49:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[25-Jan-2020 19:13:15 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jan-2020 19:13:15 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Jan-2020 19:13:15 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[25-Jan-2020 19:13:15 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[25-Jan-2020 19:13:15 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[27-Jan-2020 18:06:30 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[27-Jan-2020 18:06:30 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[27-Jan-2020 18:06:30 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[27-Jan-2020 18:06:30 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[27-Jan-2020 18:06:30 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[09-Feb-2020 21:41:04 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[09-Feb-2020 21:41:04 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[09-Feb-2020 21:41:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[09-Feb-2020 21:41:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[09-Feb-2020 21:41:04 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[14-Feb-2020 03:53:59 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[14-Feb-2020 03:53:59 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/174.253.161.194/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[14-Feb-2020 03:53:59 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[14-Feb-2020 03:53:59 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[14-Feb-2020 03:53:59 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[16-Feb-2020 01:28:26 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[16-Feb-2020 01:28:26 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[16-Feb-2020 01:28:26 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[16-Feb-2020 01:28:26 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[16-Feb-2020 01:28:26 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[16-Feb-2020 02:39:37 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[16-Feb-2020 02:39:37 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[16-Feb-2020 02:39:37 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[16-Feb-2020 02:39:37 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[16-Feb-2020 02:39:37 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[17-Feb-2020 17:42:29 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[17-Feb-2020 17:42:29 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[17-Feb-2020 17:42:29 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[17-Feb-2020 17:42:29 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[17-Feb-2020 17:42:29 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[19-Feb-2020 15:35:18 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[19-Feb-2020 15:35:18 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[19-Feb-2020 15:35:18 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[19-Feb-2020 15:35:18 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[19-Feb-2020 15:35:18 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[19-Feb-2020 16:21:12 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[19-Feb-2020 16:21:12 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[19-Feb-2020 16:21:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[19-Feb-2020 16:21:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[19-Feb-2020 16:21:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[22-Feb-2020 00:44:07 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[22-Feb-2020 00:44:07 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[22-Feb-2020 00:44:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[22-Feb-2020 00:44:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[22-Feb-2020 00:44:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[25-Feb-2020 08:52:29 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Feb-2020 08:52:29 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Feb-2020 08:52:29 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[25-Feb-2020 08:52:29 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[25-Feb-2020 08:52:29 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[25-Feb-2020 18:17:36 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Feb-2020 18:17:36 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[25-Feb-2020 18:17:36 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[25-Feb-2020 18:17:36 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[25-Feb-2020 18:17:36 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[26-Feb-2020 07:54:07 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[26-Feb-2020 07:54:07 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[26-Feb-2020 07:54:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[26-Feb-2020 07:54:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[26-Feb-2020 07:54:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[26-Feb-2020 18:14:57 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[26-Feb-2020 18:14:57 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[26-Feb-2020 18:14:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[26-Feb-2020 18:14:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[26-Feb-2020 18:14:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[02-Mar-2020 23:05:52 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Mar-2020 23:05:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Mar-2020 23:05:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[02-Mar-2020 23:05:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[02-Mar-2020 23:05:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[06-Mar-2020 20:37:58 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Mar-2020 20:37:58 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/204.28.111.45/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Mar-2020 20:37:58 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[06-Mar-2020 20:37:58 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[06-Mar-2020 20:37:58 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[06-Mar-2020 20:41:09 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Mar-2020 20:41:09 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Mar-2020 20:41:09 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[06-Mar-2020 20:41:09 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[06-Mar-2020 20:41:09 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[06-Mar-2020 20:42:05 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Mar-2020 20:42:05 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Mar-2020 20:42:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[06-Mar-2020 20:42:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[06-Mar-2020 20:42:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[06-Mar-2020 20:43:13 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Mar-2020 20:43:13 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Mar-2020 20:43:13 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[06-Mar-2020 20:43:13 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[06-Mar-2020 20:43:13 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[12-Mar-2020 06:20:44 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[12-Mar-2020 06:20:44 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[12-Mar-2020 06:20:44 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[12-Mar-2020 06:20:44 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[12-Mar-2020 06:20:44 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[17-Mar-2020 10:36:53 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[17-Mar-2020 10:36:53 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[17-Mar-2020 10:36:53 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[17-Mar-2020 10:36:53 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[17-Mar-2020 10:36:53 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[17-Mar-2020 15:31:16 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[17-Mar-2020 15:31:16 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[17-Mar-2020 15:31:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[17-Mar-2020 15:31:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[17-Mar-2020 15:31:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[18-Mar-2020 18:49:12 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[18-Mar-2020 18:49:12 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[18-Mar-2020 18:49:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[18-Mar-2020 18:49:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[18-Mar-2020 18:49:12 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[21-Mar-2020 22:56:15 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[21-Mar-2020 22:56:15 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[21-Mar-2020 22:56:15 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[21-Mar-2020 22:56:15 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[21-Mar-2020 22:56:15 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[23-Mar-2020 06:38:54 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Mar-2020 06:38:54 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Mar-2020 06:38:54 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[23-Mar-2020 06:38:54 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[23-Mar-2020 06:38:54 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[02-Apr-2020 15:46:19 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Apr-2020 15:46:19 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[02-Apr-2020 15:46:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[02-Apr-2020 15:46:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[02-Apr-2020 15:46:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[03-Apr-2020 21:48:56 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[03-Apr-2020 21:48:56 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[03-Apr-2020 21:48:56 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[03-Apr-2020 21:48:56 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[03-Apr-2020 21:48:56 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[06-Apr-2020 21:50:05 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Apr-2020 21:50:05 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[06-Apr-2020 21:50:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[06-Apr-2020 21:50:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[06-Apr-2020 21:50:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[08-Apr-2020 17:46:33 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-Apr-2020 17:46:33 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-Apr-2020 17:46:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[08-Apr-2020 17:46:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[08-Apr-2020 17:46:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[09-Apr-2020 17:29:55 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[09-Apr-2020 17:29:55 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[09-Apr-2020 17:29:55 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[09-Apr-2020 17:29:55 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[09-Apr-2020 17:29:55 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[10-Apr-2020 23:36:34 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Apr-2020 23:36:34 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[10-Apr-2020 23:36:34 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[10-Apr-2020 23:36:34 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[10-Apr-2020 23:36:34 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[14-Apr-2020 21:17:05 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[14-Apr-2020 21:17:05 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/173.44.55.10/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[14-Apr-2020 21:17:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[14-Apr-2020 21:17:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[14-Apr-2020 21:17:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[17-Apr-2020 03:49:52 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[17-Apr-2020 03:49:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/192.225.243.190/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[17-Apr-2020 03:49:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[17-Apr-2020 03:49:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[17-Apr-2020 03:49:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[17-Apr-2020 03:50:42 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[17-Apr-2020 03:50:42 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/192.225.243.190/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[17-Apr-2020 03:50:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[17-Apr-2020 03:50:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[17-Apr-2020 03:50:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[28-Apr-2020 15:08:57 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[28-Apr-2020 15:08:57 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[28-Apr-2020 15:08:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[28-Apr-2020 15:08:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[28-Apr-2020 15:08:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[08-May-2020 22:11:19 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-May-2020 22:11:19 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[08-May-2020 22:11:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[08-May-2020 22:11:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[08-May-2020 22:11:19 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[13-May-2020 11:15:40 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[13-May-2020 11:15:40 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/64.180.170.166/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[13-May-2020 11:15:40 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[13-May-2020 11:15:40 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[13-May-2020 11:15:40 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[19-May-2020 10:22:50 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[19-May-2020 10:22:50 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[19-May-2020 10:22:50 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[19-May-2020 10:22:50 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[19-May-2020 10:22:50 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[19-May-2020 15:31:42 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[19-May-2020 15:31:42 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[19-May-2020 15:31:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[19-May-2020 15:31:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[19-May-2020 15:31:42 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[21-May-2020 16:15:25 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[21-May-2020 16:15:25 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[21-May-2020 16:15:25 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[21-May-2020 16:15:25 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[21-May-2020 16:15:25 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[26-May-2020 15:07:34 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[26-May-2020 15:07:34 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[26-May-2020 15:07:34 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[26-May-2020 15:07:34 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[26-May-2020 15:07:34 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[07-Jun-2020 16:32:26 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[07-Jun-2020 16:32:26 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/174.223.137.184/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[07-Jun-2020 16:32:26 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[07-Jun-2020 16:32:26 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[07-Jun-2020 16:32:26 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[13-Jun-2020 18:27:33 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[13-Jun-2020 18:27:33 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[13-Jun-2020 18:27:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[13-Jun-2020 18:27:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[13-Jun-2020 18:27:33 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[19-Jun-2020 20:43:37 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[19-Jun-2020 20:43:37 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.85.200.125/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[19-Jun-2020 20:43:37 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[19-Jun-2020 20:43:37 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[19-Jun-2020 20:43:37 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[20-Jun-2020 07:51:08 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[20-Jun-2020 07:51:08 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[20-Jun-2020 07:51:08 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[20-Jun-2020 07:51:08 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[20-Jun-2020 07:51:08 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[21-Jun-2020 03:09:30 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[21-Jun-2020 03:09:30 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/65.32.160.95/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[21-Jun-2020 03:09:30 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[21-Jun-2020 03:09:30 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[21-Jun-2020 03:09:30 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[23-Jun-2020 15:20:36 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Jun-2020 15:20:36 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/38.39.213.253/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Jun-2020 15:20:36 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[23-Jun-2020 15:20:36 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[23-Jun-2020 15:20:36 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[23-Jun-2020 21:44:57 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Jun-2020 21:44:57 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Jun-2020 21:44:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[23-Jun-2020 21:44:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[23-Jun-2020 21:44:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[27-Jun-2020 04:02:11 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[27-Jun-2020 04:02:11 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/70.119.200.60/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[27-Jun-2020 04:02:11 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[27-Jun-2020 04:02:11 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[27-Jun-2020 04:02:11 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[23-Jul-2020 16:51:05 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Jul-2020 16:51:05 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/119.93.56.47/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[23-Jul-2020 16:51:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[23-Jul-2020 16:51:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[23-Jul-2020 16:51:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38
+[28-Jul-2020 04:31:50 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[28-Jul-2020 04:31:50 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/73.204.92.213/json): failed to open stream: no suitable wrapper could be found in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 33
+[28-Jul-2020 04:31:50 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 35
+[28-Jul-2020 04:31:50 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 36
+[28-Jul-2020 04:31:50 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/cispmain/public_html/resources/assets/front/js/getIP.php on line 38

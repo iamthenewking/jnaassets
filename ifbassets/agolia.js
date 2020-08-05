@@ -1,0 +1,3 @@
+(function(){var placesAutocomplete=places({appId:'plKI7MTUS952',apiKey:'23037a347e5d13bda911e2783be51e56',container:document.querySelector('#form-address'),}).configure({countries:['us'],type:'address'});var $address=document.querySelector('#form-address')
+placesAutocomplete.on('change',function(e){$address.textContent=e.suggestion.value;var str=e.suggestion.name;var res3=str.replace(/ /g,"-");var res=res3.replace(/,/g,"");var str2=e.suggestion.postcode;var res2=str2.substring(0,5)
+window.location.href=("/newsearch/?zip_code="+res2)})})();$(function(){$('.sc').on('click',function(){window.location.href=$(this).data('url')})})

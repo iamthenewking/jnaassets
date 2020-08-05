@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.Accordion { overflow: hidden; padding:10px; outline:none; }
+.AccordionPanel { margin:0; padding: 0px; margin:15px 0 0 0; }
+.AccordionPanelTab { background:url(../images/accordionBG.png) repeat-x #3497f5; margin:0; cursor:pointer; -moz-user-select: none; -khtml-user-select: none; padding:17px 45px 17px 65px; font-family:'Muli', sans-serif; font-weight:400; font-size:19px; line-height:24px; color:#546264; }
+.AccordionPanelContent { overflow: auto; margin: 0px; padding: 0; height: 200px; }
+.AccordionPanelOpen .AccordionPanelTab { background:url(../images/accordionBG2.png) no-repeat right 24px center, url(../images/accordionBG4.png) no-repeat 24px center, url(../images/accordionBG.png) repeat-x #fff; }
+.AccordionPanelClosed .AccordionPanelTab { background:url(../images/accordionBG3.png) no-repeat right 24px center, url(../images/accordionBG4.png) no-repeat 24px center, url(../images/accordionBG.png) repeat-x #fff; border:1px solid #eaeff0; }
+.AccordionPanelTabHover { color:inherit;}
+.AccordionPanelOpen .AccordionPanelTabHover { color:inherit;}
+.AccordionFocused .AccordionPanelTab { }
+.AccordionFocused .AccordionPanelOpen .AccordionPanelTab { }
+@media print {
+  .Accordion { overflow: visible !important; }
+  .AccordionPanelContent { display: block !important; overflow: visible !important; height: auto !important; }
+}

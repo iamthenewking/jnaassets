@@ -1,0 +1,17 @@
+{
+  "name": "@iamthenewking/ifb",
+  "version": "1.4.0",
+  "description": "JNA Dealer Program assets",
+  "license": "MIT",
+  "repository": "jna-assets",
+  "main": "index.js",
+  "keywords": [
+    "JNA Dealer Program",
+    "npm",
+    "package",
+    "iamthenewking"
+  ],
+  "dependencies": {
+    "@iamthenewking/ifb": "^1.4.0" 
+  }
+}

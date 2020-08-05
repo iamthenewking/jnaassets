@@ -1,0 +1,2 @@
+$('.FullList').click(function(event){var id=$(this).attr("href");var offset=100;var target=$(id).offset().top-offset;$('html, body').animate({scrollTop:target},900);event.preventDefault()})
+$(window).scroll(function(){if($(window).scrollTop()>100){$('.navbar').css({"padding":"10px 0","background":"#fff","box-shadow":"0 0 10px #e2e2e2"})}else{$('.navbar').css({"padding":"42px 0","background":"none","box-shadow":"none"})}})
